@@ -1,0 +1,86 @@
+
+
+
+main{
+    
+    div{
+        div{
+            div{    
+                .parrafos {
+                    //  Intenté aplicar esta variable acá pero por algun motivo no me la agarra, siendo que ya la definí en el apartado de variables.
+                    color: black;
+                    // color: $white;
+                    
+                   
+                       
+                }
+            }  
+        }
+        
+        .imagenesProductos{
+            width: 200px !important;
+            height: 180px;
+            margin: 20px;
+            padding: 10px;
+            border-radius: 15px;
+        }
+        .bi {
+            margin-top: .125rem;
+            margin-left: .125rem;
+            fill: currentcolor;
+            transition: transform .25s ease-in-out;
+            }
+           
+        } 
+        
+    }
+           
+           
+
+               
+//  PROPIEDADES DEL CARRUSEL DE INICIO
+main{ #Contenedorcarrusel {padding: 10px}
+    div{
+        .imagenesNosotros {
+            width: 100% !important;
+            height: 155px !important;
+        }
+       
+        div{
+            
+            div{.segundoCarousel {
+                margin-top: 30px;
+                height: 30vh;
+                min-height: 200px;
+                background: no-repeat center center scroll; 
+                -webkit-background-size: cover; 
+                -moz-background-size: cover;
+                -o-background-size: cover; 
+                background-size: cover;  
+                      } 
+                      
+                div{.imgCarrusel {
+                    width: 100% !important;
+                   height: 100% !important;
+                }
+                }
+                div{.imgCarrusel {
+                    width: 100% !important;
+                   height: 100% !important;
+                }
+                }
+                div{
+                    img{
+                        .imgCarrusel {
+                            width: 100% !important;
+                           height: 100% !important;
+                        }
+                    }
+                    
+                }
+            }
+        
+        }
+    }
+}
+

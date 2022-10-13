@@ -1,0 +1,10 @@
+{
+  "name": "prepros-project",
+  "version": "1.0.0",
+  "description": "This is a dummy package.json file created by Prepros to manage packages with NPM. You can edit this file to add your own information.",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "find-node-modules": "^2.1.3",
+    "nodemon": "^2.0.20"
+  }
+}
